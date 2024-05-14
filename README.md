@@ -9,7 +9,7 @@ the ground truth masks.
 
 Findings revealed that Meta-Polyp
 exhibited excellent performance on its training test and
-unseen datasets, with no zero-value results, while DUCKNet also performed well, albeit with slightly lower results
+unseen datasets, with no zero-value results, while DUCK-Net also performed well, albeit with slightly lower results
 on one dataset and superior performance on another,
 with some zero-value results. Both models encountered
 difficulties with unclear polyp borders, small polyps, large
